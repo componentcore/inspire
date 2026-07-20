@@ -1,9 +1,7 @@
 # Collaborative Partner Tools
 
-[SuiteCRM Partner/Customer Relation Management](https://dreamstudio.com/profile/crm/) - Standard-based data structure
+[SuiteCRM](https://dreamstudio.com/profile/crm/) - Standards-based data structures for custom apps.
 
-[Education Resources](https://dreamstudio.com/education/) - Collaborative Data Science, RealityStream ML, Model.Earth Impacts
+[Automation and Education Resources](https://dreamstudio.com/core/) - Collaborative Data Science, RealityStream ML, Model.Earth Impacts, AI Integration
 
-[Azure and AWS Setup steps](https://dreamstudio.com/setup/) are available for Amazon AWS Cloud Hosting with Elastic Compute Cloud (EC2) and Relational Database Service (RDS). 
-
-Software as a Service (SaaS) hosting and support for Microsoft Azure and Amazon AWS Cloud Hosting with Elastic Compute Cloud (EC2) and Relational Database Service (RDS).
+[AWS Site Assistance](https://dreamstudio.com) automated Amazon AWS Cloud Hosting with Elastic Compute Cloud (EC2) and Relational Database Service (RDS) Microsoft SQL.
